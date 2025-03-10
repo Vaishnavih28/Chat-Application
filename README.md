@@ -5,9 +5,9 @@ A real-time chat application built using MERN (MongoDB, Express, React, Node.js)
 
 
 Features
-> User Authentication (JWT - Login/Sign UP)
-> Real-Time messaging (socket.io)
+* User Authentication (JWT - Login/Sign UP)
+* Real-Time messaging (socket.io)
 
  Tech Stack
- > Frontend : React, Tailwind CSS , Zustand.
- > Backend : Node.js, Express, MongoDb, Mongoose, socket.io , JWT
+ * Frontend : React, Tailwind CSS , Zustand.
+ * Backend : Node.js, Express, MongoDb, Mongoose, socket.io , JWT
